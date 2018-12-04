@@ -1,0 +1,10 @@
+.classpath
+.project
+*.iml
+*.class
+/classes
+/source
+/.idea
+/.settings
+/Server/target
+/Client/target
